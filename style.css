@@ -27,6 +27,24 @@ main {
   justify-content: space-between;
 }
 
+.crypto-info {
+  font-size: 1.4rem;
+}
+
+.crypto-info > p {
+  margin: 0;
+}
+
+.crypto-top {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.crypto-top > span {
+  margin-left: 10px;
+}
+
 .time {
   text-align: center;
 }
